@@ -30,7 +30,6 @@ public class Member {
         return jumlahPinjaman;
     }
 
-    // Method untuk meminjam uang
     public void pinjam(int nominal) {
         if ((jumlahPinjaman + nominal) > limitPinjaman) {
             System.out.println("Maaf, jumlah pinjaman melebihi limit.");
