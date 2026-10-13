@@ -1,4 +1,4 @@
-package MidTermExam_13102026;
+package MIdterm_13102026;
 
 public class UserProfile {
     private int userId;
