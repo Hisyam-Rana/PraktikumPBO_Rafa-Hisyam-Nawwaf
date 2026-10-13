@@ -12,7 +12,6 @@ public class DemoUser19 {
 
         System.out.println("-----------------------------------");
 
-        // Menguji objek Admin
         Admin admin = new Admin(new UserProfile(99, "kominfo123", "Wowok", 30, "RI03@mail.com", "id.pdf"));
         admin.addVehicle();
         admin.retrieveComplain();

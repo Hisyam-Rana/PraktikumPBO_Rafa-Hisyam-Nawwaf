@@ -4,7 +4,6 @@ public class ActiveVolcano19 extends VolcanicMountain19 {
     private int alertLevel;
     private String lastEruptionYear;
 
-    // Konstruktor
     public ActiveVolcano19(String namE, int elevatioN, String locatioN, String volcanoType, boolean isMonitored, int alertLevel, String lastEruptionYear) {
         super(namE, elevatioN, locatioN, volcanoType, isMonitored);
         this.alertLevel = alertLevel;

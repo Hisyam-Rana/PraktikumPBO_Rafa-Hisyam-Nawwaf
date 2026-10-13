@@ -4,7 +4,6 @@ public class VolcanicMountain19 extends Mountain19 {
     protected String volcanoType;
     protected boolean isMonitored;
 
-    // Konstruktor
     public VolcanicMountain19(String namE, int elevatioN, String locatioN, String volcanoType, boolean isMonitored) {
         super(namE, elevatioN, locatioN);
         this.volcanoType = volcanoType;
