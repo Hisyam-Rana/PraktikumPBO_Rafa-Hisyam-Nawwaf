@@ -1,4 +1,4 @@
-package Midterm_13102026;
+package MidTermExam_13102026;
 
 public class Admin extends User {
     public Admin(UserProfile profile) {
