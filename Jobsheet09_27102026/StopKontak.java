@@ -1,4 +1,4 @@
-package Jobsheet08_27102026;
+package Jobsheet09_27102026;
 
 public class StopKontak extends StopKontakStation {
     private String idSocket;
